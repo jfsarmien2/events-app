@@ -1,7 +1,7 @@
 import Head from "next/head"
 import Footer from "./Footer"
 import Header from "./Header"
-import styles from '../styles/Layout.module.css'
+import styles from '@/styles/Layout.module.css'
 
 
 export default function Layout({
@@ -27,7 +27,7 @@ export default function Layout({
 }
 
 Layout.defaultProps = {
-    title: 'DJ Events | Find the hottest parties',
-    description: 'Find the latest DJ and other musical events',
-    keywords: 'music, dj, edm, events'
+    title: 'Tech Meetup | Find out what is happening in information technology meetup',
+    description: 'Find the latest events in information technology',
+    keywords: 'technology, information, events'
 }
