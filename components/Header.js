@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import styles from '@/styles/Header.module.css'
-
+import Search from '@/components/Search'
 export default function Header() {
     return (
         <header className={styles.header}>
@@ -9,6 +9,7 @@ export default function Header() {
                     <a>Tech Meetup</a>
                 </Link>
             </div>
+            <Search />
             <nav>
                 <ul>
                     <li>

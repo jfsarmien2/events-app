@@ -1,0 +1,76 @@
+{
+    "events": [
+      {
+        "id": "1",
+        "name": "FinTech/Community Financial Institution",
+        "slug": "fintech-community-financial-institution",
+        "venue": "Workshop NYC",
+        "address": "919 3rd Ave New York, New York(NY), 10022",
+        "host": "Rob M.",
+        "date": "June 09, 2021",
+        "time": "10:00 PM EST",
+        "description": "A discussion around the acceleration of innovation in the financial industry, the challenges mid-sized banks and credit unions face in trying to compete, and an emerging option in the form of modular banking",
+        "image": "/images/event1.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Python Programming Data Analytics",
+        "slug": "python-programming-data-analytics",
+        "venue": "Learn Programming NYC",
+        "address": "845 3rd Ave, New York, NY 10022, USA",
+        "host": "Shivgan J.",
+        "date": "June 2, 2021",
+        "time": "8:00 PM EST",
+        "description": "Data analytics classes taught by top instructors using proprietary curriculum.",
+        "image": "/images/event2.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Blockchain and Cryptocurrency Meetup",
+        "slug": "blockchain-and-cryptocurrencymeetup",
+        "venue": "Studio 103",
+        "address": "The Business Centre 61 Wellfield Road Roath Cardiff CF24 3DG",
+        "host": "Ryan P. and Adrian B.",
+        "date": "June 11, 2021",
+        "time": "7:00 PM EST",
+        "description": "This meetup will serve to provide knowledge at all levels. We'll begin with high-level concepts and work our way to advanced understanding of blockchain use-cases.",
+        "image": "/images/event3.jpg"
+      },
+      {
+        "id": "4",
+        "name": "How to Build a Big Data Portfolio Project",
+        "slug": "how-to-build-a-big-data-portfolio-project",
+        "venue": "University Of Toronto",
+        "address": "44 St. George Street Toronto, Ontario, M5S 2E4 Canada",
+        "host": "Jessica M.",
+        "date": "June 20, 2021",
+        "time": "10:00 PM EST",
+        "description": "In this workshop, the speaker will discuss the latest trends in big data, and demo some end-to-end big data portfolio projects.",
+        "image": "/images/event4.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Free Full Stack MERN Web Development Training",
+        "slug": "free-fullstack-mern-web-development-training",
+        "venue": "PRAGRA",
+        "address": "Toronto, ON",
+        "host": "Pragra T.",
+        "date": "June 30, 2021",
+        "time": "8:00 PM EST",
+        "description": "Due to the current strong demand pipeline from our TOP Canadian hiring partners, we are starting a new Batch for Front End Web Development which will cover React, Node, MongoDB, Express.js.",
+        "image": "/images/event5.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Mobile vs Web Product Management by Atlassian Product Leader",
+        "slug": "mobile-web-product-management",
+        "venue": "Product School",
+        "address": "Washington, DC",
+        "host": "Product S.",
+        "date": "July 2, 2021",
+        "time": "8:00 PM EST",
+        "description": "This session will cover the complexities of working with products across the physical and software arena.",
+        "image": "/images/event6.jpg"
+      }
+    ]
+  }
