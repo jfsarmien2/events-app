@@ -18,7 +18,7 @@ export default function Home({events}) {
       ))}
       {events.length > 0 && (
         <Link href="/events"> 
-          <a className="btn-secondary">
+          <a style={{padding:'10px 10px 10px 10px'}} className="btn">
             View All Events
           </a>
         </Link>
